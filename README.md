@@ -33,4 +33,4 @@ To add your maven project as a dependency, add this to your `pom.xml`:
       ...
     </dependencies>
 
-Maven should automatically download the dependencies.
+Maven should automatically download the dependencies. See [here](http://blog.marrowboy.co.uk/2011/11/08/how-to-host-a-maven-repo-on-github/) for more information.
