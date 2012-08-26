@@ -20,12 +20,12 @@
     </license>
   </licenses>
 
-  <distributionManagement>
-    <repository>
-      <id>github.repo</id>
-      <url>file:///Users/kennyyu/Desktop/csprojects/maven-repos/flags</url>
-    </repository>
-  </distributionManagement>
+<distributionManagement>
+  <repository>
+    <id>github.repo</id>
+    <url>file:///Users/kennyyu/Desktop/csprojects/maven-repos/flags</url>
+  </repository>
+</distributionManagement>
 
   <build>
     <resources>
